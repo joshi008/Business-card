@@ -5,8 +5,12 @@ function App() {
         <div>
             <h1>Digital Buissness Card Generator</h1>
 
-            <button>Scan my card</button>
-            <button>Generate new card</button>
+            <a href="/scan">
+                <button>Scan my card</button>
+            </a>
+            <a href="/generate">
+                <button>Generate new card</button>
+            </a>
         </div>
     )
 }
