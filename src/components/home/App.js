@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
     return (
         <div>
-            <h1>Digital Buissness Card Generator</h1>
+            <h1>Digital Business Card Generator</h1>
 
             <a href="/scan">
                 <button>Scan my card</button>
