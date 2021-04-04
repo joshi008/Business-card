@@ -1,0 +1,38 @@
+* {
+    background-color: #ffe3fe;
+    color: #440a67;
+}
+
+button {
+    background-color: #b4aee8;
+}
+
+.pop {
+    width: 40%;
+    text-align: center;
+}
+
+.oop {
+    flex: content;
+    justify-content: center;
+    text-align: center;
+}
+
+.inner {
+ 
+        display: inline;
+        float: none;
+    
+}
+
+.label {
+    float: left;
+    padding-right: 1rem;
+}
+
+.out {
+    margin: auto;
+    display: flex;
+  justify-content: center;
+}
+
