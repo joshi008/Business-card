@@ -17,7 +17,7 @@ function App() {
 
 
     return (
-        <div>
+        <div className="scannerQR">
             <QrReader
                 delay={300}
                 onError={handleError}
