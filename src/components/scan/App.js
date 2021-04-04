@@ -24,7 +24,7 @@ function App() {
                 onScan={handleScan}
                 style={{ width: '100%' }}
             />
-            <p>{result}</p>
+            <a href={result}>{result}</a>
         </div>
     )
 }
